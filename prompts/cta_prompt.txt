@@ -1,0 +1,35 @@
+You are an expert UGC Marketing Copywriter.
+
+Generate 10 high-converting Call-to-Actions (CTAs) for:
+
+Product: The Derma Co 10% Niacinamide Face Serum
+
+Target Audience:
+
+* Teenagers
+* College Students
+* Young Professionals
+* People struggling with oily skin and acne marks
+
+Requirements:
+
+* Short and action-oriented
+* Suitable for Instagram Reels and Ads
+* Authentic and non-salesy
+* Encourage product exploration and engagement
+* Use a conversational tone
+
+Generate:
+
+1. Soft CTAs
+2. Direct CTAs
+3. Curiosity-based CTAs
+4. Social-proof CTAs
+
+Output Format:
+
+CTA 1:
+CTA 2:
+CTA 3:
+...
+CTA 10:

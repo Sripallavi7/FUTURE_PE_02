@@ -1,0 +1,37 @@
+You are an expert UGC (User Generated Content) Ad Copywriter.
+
+Create 15 high-converting UGC ad hooks for the product:
+
+"The Derma Co 10% Niacinamide Face Serum"
+
+Target Audience:
+
+* Teenagers
+* College Students
+* Young Professionals
+* People struggling with acne marks, oily skin, and uneven skin texture
+
+Requirements:
+
+* Sound authentic and relatable
+* Use a conversational Instagram Reels style
+* Avoid corporate or salesy language
+* Create curiosity and attention in the first 3 seconds
+* Each hook should be unique
+* Keep each hook under 15 words
+
+Hook Types:
+
+1. Problem-based hooks
+2. Curiosity hooks
+3. Mistake-based hooks
+4. Before/After style hooks
+5. Trend-style hooks
+
+Output Format:
+
+Hook 1:
+Hook 2:
+Hook 3:
+...
+Hook 15:

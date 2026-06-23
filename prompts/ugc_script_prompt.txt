@@ -1,0 +1,47 @@
+You are an expert UGC Ad Script Writer.
+
+Create 3 high-converting UGC ad scripts for:
+
+Product: The Derma Co 10% Niacinamide Face Serum
+
+Target Audience:
+
+* Teenagers
+* College Students
+* Young Professionals
+* People with oily skin, acne marks, and uneven texture
+
+Requirements:
+
+* Instagram Reels style
+* 30–45 seconds
+* Conversational and authentic tone
+* No exaggerated claims
+* Follow this structure:
+
+Hook
+Problem
+Solution
+Experience/Benefit
+CTA
+
+Generate:
+
+1. Problem-Solution Style Script
+2. College Student Style Script
+3. Trendy Instagram Reel Style Script
+
+Output Format:
+
+Script 1:
+Hook:
+Problem:
+Solution:
+Benefit:
+CTA:
+
+Script 2:
+...
+
+Script 3:
+...
